@@ -5,6 +5,6 @@ Ce projet représente la configuration de base que j'utilise pour apprendre et d
 - HTML
 - CSS
 - JavaScript
-- Git
+- Git[https://git-scm.com/]
 - Github
 - Visual Studio Code
