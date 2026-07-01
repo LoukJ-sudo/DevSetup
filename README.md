@@ -9,4 +9,4 @@ Ce projet représente la configuration de base que j'utilise pour apprendre et d
 - ### Instalation
 - 1. Clone le repository
 git clone
-https://github.com/LoukJ-sudo/edit/main/README.com
+https://github.com/LoukJ-sudo/DevSetup
